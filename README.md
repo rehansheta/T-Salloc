@@ -33,6 +33,6 @@ The allocation mechanisms are:
 3. change the values in constants.py
 4. python experiment.py
 
-# Paper
+# Publication
 
 <https://www.academia.edu/15177691/Time-Sensitive_Virtual_Machines_Provisioning_and_Resource_Allocation_in_Clouds>
