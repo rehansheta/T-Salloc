@@ -9,8 +9,13 @@ This project is a part of my PhD research. Three Time-Sensitive VM provisioning 
 
 # TSRA/inputs
 
-capacity/ -- contains different cluster configurations represented as resource capacities
-vmConfig/ -- contains different virtual mechine configurations represented as resource requirements
-spec2006/ -- 
+1. capacity/ -- contains different cluster configurations represented as resource capacities
+2. vmConfig/ -- contains different virtual mechine configurations represented as resource requirements
+3. spec2006/ -- contains runtime information of spec cpu2006 benchmark on different virtual machines running under openstack
+4. parsec/ -- contains runtime information of parsec-3 and splash-2 benchmarks on different virtual machines running under openstack
+
+# TSRA/
+
+
 
   
