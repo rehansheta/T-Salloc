@@ -212,8 +212,8 @@ def experimentForAllConfig():
 					elif mappingAlgo is 'best_fit': constants.best_fit = True
 					elif mappingAlgo is 'worst_fit': constants.worst_fit = True
 
-					constants.traceFileDirectory = 'outputs/experimentforMultiplePool/' + technique + '/final/' + mappingAlgo + '/traces/'
-					constants.gnuplotDirectory = 'outputs/experimentforMultiplePool/' + technique + '/final/' + mappingAlgo + '/'
+					constants.traceFileDirectory = 'outputs/' + technique + '/' + mappingAlgo + '/traces/'
+					constants.gnuplotDirectory = 'outputs/' + technique + '/' + mappingAlgo + '/'
 
 					experimentForComparison()
 					constants.GENERATE_LOAD = False

@@ -1,7 +1,6 @@
-benchmarks = ['parsec','spec2006']	# 'parsec', 
+benchmarks = ['parsec','spec2006']	# 'parsec',
 inputLogFileDirectory = 'inputs/'
 
-# TODO: conditions for different VM configuration
 vmConfigFilename = 'inputs/vmConfig/vmConfig.in'
 
 capacityFilename = None

@@ -1,4 +1,0 @@
-#data count: number_of_resources
-2
-#data: resource1_capacity, resource2_capacity, ...
-128,256
