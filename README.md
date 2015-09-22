@@ -7,5 +7,10 @@ This project is a part of my PhD research. Three Time-Sensitive VM provisioning 
 3. K-Earlieast Deadline First (K-EDF) Allocation
 4. GVMPAC Allocation
 
-# TSRA
+# TSRA/inputs
 
+capacity/ -- contains different cluster configurations represented as resource capacities
+vmConfig/ -- contains different virtual mechine configurations represented as resource requirements
+spec2006/ -- 
+
+  
