@@ -1,0 +1,11 @@
+#data count: number_of_resources
+2
+#data: resource1_capacity, resource2_capacity, ...
+2,4
+2,4
+2,4
+2,4
+4,8
+4,8
+8,32
+8,32
