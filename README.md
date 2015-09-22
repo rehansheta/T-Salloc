@@ -28,6 +28,7 @@ The allocation mechanisms are:
 
 # Run
 
-1. change the capacity and vm configuration files
-2. change the values in constants.py
-3. python experiment.py
+1. install gnuplot
+2. change the capacity and vm configuration files
+3. change the values in constants.py
+4. python experiment.py
