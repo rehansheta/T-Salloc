@@ -32,3 +32,7 @@ The allocation mechanisms are:
 2. change the capacity and vm configuration files
 3. change the values in constants.py
 4. python experiment.py
+
+# Paper
+
+<https://www.academia.edu/15177691/Time-Sensitive_Virtual_Machines_Provisioning_and_Resource_Allocation_in_Clouds>
